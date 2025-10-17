@@ -1,0 +1,10 @@
+pandas==2.2.3
+numpy==2.2.2
+matplotlib==3.10.0
+matplotlib-inline==0.1.7
+seaborn==0.13.2
+sqlalchemy
+psycopg2-binary
+psycopg2
+dotenv 
+phik
